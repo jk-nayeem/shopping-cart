@@ -1,0 +1,23 @@
+.item {
+    height: 250px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+.item .left-part img {
+    height: 100%;
+}
+.item .left-part {
+    width: 40%;
+    height: 250px;
+}
+.item .right-part {
+    width: 40%;
+}
+.item .right-part .left input {
+    width: 50px;
+    border: none;
+}
+.status {
+    text-align: right;
+    padding-right: 50px;
+}
